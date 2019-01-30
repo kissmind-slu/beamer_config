@@ -1,0 +1,36 @@
+{
+    "courses":{
+        "silex":{
+            "name":"silex",
+            "ids":[
+                233117,
+                246812,
+                456265
+            ]
+        },
+        "alcance":{
+            "name":"alcance",
+            "ids":[
+                363706
+            ]
+        },
+        "upgrade":{
+            "name":"upgrade",
+            "ids":[
+                242475
+            ]
+        },
+        "smack":{
+            "name":"smack",
+            "ids":[
+                304602
+            ]
+        },
+        "sesgado":{
+            "name":"sesgado",
+            "ids":[
+                318506
+            ]
+        }
+    }
+}
